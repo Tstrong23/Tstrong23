@@ -33,39 +33,53 @@
 <p align="center">
 
 - **Languages**:
+
+  ![Spanish](https://img.shields.io/badge/Spanish-EFDF00?style=for-the-badge&logoColor=white)
+  ![English](https://img.shields.io/badge/English-00247D?style=for-the-badge&logoColor=white)
+  ![Portuguese](https://img.shields.io/badge/Portuguese-008000?style=for-the-badge&logoColor=white)
+
+
+
+</p>
+    
+- **Programing Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<br>   
+<br>
+
+- **Data Softwares and Tools**:
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Amazon Web Services (AWS)](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
     
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<br>
+
+- **Technical-Tactical Analysis Tools**:
+
+  ![Nacsport](https://img.shields.io/badge/Nacsport-FF6600?style=for-the-badge&logoColor=white)
+  ![Hudl Sportscode Platform](https://img.shields.io/badge/Hudl%20Sportscode%20Platform-000000?style=for-the-badge&logoColor=white)
+  ![ChyronHego Coach Paint](https://img.shields.io/badge/ChyronHego%20Coach%20Paint-007ACC?style=for-the-badge&logoColor=white)
+  ![Tactic Pro](https://img.shields.io/badge/Tactic%20Pro-FF0000?style=for-the-badge&logoColor=white)
+  ![KlipDraw](https://img.shields.io/badge/KlipDraw-0080FF?style=for-the-badge&logoColor=white)
+
 
 <br>
 
-- **Cloud Hosting**:
+- **Football Management Tools**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+  ![Videobserver](https://img.shields.io/badge/Videobserver-FF6600?style=for-the-badge&logoColor=white)
+  ![OptaSport Wyscout](https://img.shields.io/badge/OptaSport%20Wyscout-0096D6?style=for-the-badge&logoColor=white)
+  ![MyTPA](https://img.shields.io/badge/MyTPA-000000?style=for-the-badge&logoColor=white)
+  ![InStat](https://img.shields.io/badge/InStat-FF0000?style=for-the-badge&logoColor=white)
+  ![SBG](https://img.shields.io/badge/SBG-008000?style=for-the-badge&logoColor=white)
+  
 
 
 </p>
@@ -98,74 +112,3 @@
 
 <br>
 <br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Banderas de España, Reino Unido y Portugal</title>
-  <style>
-    /* Estilos para alinear las imágenes en línea */
-    img {
-      width: 100px; /* Ancho de las imágenes */
-      margin: 0 10px; /* Margen entre las imágenes */
-    }
-  </style>
-</head>
-<body>
-  <h1>Banderas de España, Reino Unido y Portugal</h1>
-  <img src="https://flagcdn.com/w320/es.png" alt="Bandera de España">
-  <img src="https://flagcdn.com/w320/gb.png" alt="Bandera de Reino Unido">
-  <img src="https://flagcdn.com/w320/pt.png" alt="Bandera de Portugal">
-</body>
-</html>
